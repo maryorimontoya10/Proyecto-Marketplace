@@ -3,9 +3,9 @@
 Proyecto enfocado en resolver el estancamiento de ventas de un Marketplace nacional, transformando datos brutos en información estratégica para mercadeo y gerencia.
 
 ## Objetivos Clave
-* Identificar los productos y vendedores con mayor rendimiento y rentabilidad.
-* Analizar las tendencias y picos de compra según la temporada del año.
-* Evaluar la eficiencia comercial del equipo mediante KPIs.
+1. Identificar los productos y vendedores con mayor rendimiento y rentabilidad.
+2. Analizar las tendencias y picos de compra según la temporada del año.
+3. Evaluar la eficiencia comercial del equipo mediante KPIs.
 
 ## Tecnologías Usadas
 * **Python (Pandas):** Limpieza, depuración y transformación de datos.
