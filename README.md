@@ -1,4 +1,4 @@
-# Analisis de Ventas: Marketplace con Python
+# Análisis de Ventas: Marketplace con Python
 
 Proyecto enfocado en resolver el estancamiento de ventas de un Marketplace nacional, transformando datos brutos en información estratégica para mercadeo y gerencia.
 
